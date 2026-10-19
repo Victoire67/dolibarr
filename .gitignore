@@ -13,7 +13,6 @@ default.properties
 .gitmodules
 /.project
 /.pydevproject
-/.vscode
 .DS_Store
 *.iml
 *.orig
@@ -117,3 +116,7 @@ docs/superpowers/
 /cookies.txt
 /post_login.html
 /AGENTS.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
